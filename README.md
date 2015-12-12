@@ -1,4 +1,4 @@
-![Testing REST-api via REST-assured]
+# Testing REST-api via REST-assured
 
 1. Run AUT
 2. Run test: "mvn test" or "mvn clean test"
